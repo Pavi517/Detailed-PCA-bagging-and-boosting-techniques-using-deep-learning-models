@@ -4,7 +4,7 @@ Detailed Regression models implementing PCA, bagging and boosting techniques.
 NOTE: Attached is a ZIP file for Regression. I have also attached HTML version of python notebook for ease of cose access.
 
 
-Regression Tasks are performed in the following code: 
+Regression Tasks performed: 
  1. Bagging -  Linear Regression and Lasso 
  2. Pasting - KNN, Ridge
  3. Ada Boosting - Linear SVM, SVM kernel = rbf
@@ -13,7 +13,7 @@ Regression Tasks are performed in the following code:
  6. PCA 
 
 
-Classification Tasks are performed in the following code: 
+Classification Tasks performed: 
  1. Soft voting classifier -  KNN, logistic regression, lgistic regression with lasso
  2. Hard Voting - SVC, KNN
  3. Bagging - KNN
